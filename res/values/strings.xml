@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014 iWedia S.A.
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">A4TV Example 2</string>
+    <string name="scrambled">Channel is Scrambled</string>
+    <string name="load_ip_channels">Load IP channel list from USB</string>
+    <string name="epg">EPG</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="show_epg_next">Show EPG for next day?</string>
+    <string name="show_epg_previous">Show EPG for previous day?</string>
+    <string name="genre_all">All</string>
+    <string name="genre_movie_drama">Movie/Drama</string>
+    <string name="genre_news_current_affairs">News/Current affairs</string>
+    <string name="genre_show_game_show">Show/Game show</string>
+    <string name="genre_sports">Sports</string>
+    <string name="genre_children_youth_programmes">Children\'s/Youth programmes</string>
+    <string name="genre_music_ballet_dance">Music/Ballet/Dance</string>
+    <string name="genre_arts_culture">Arts/Culture</string>
+    <string name="genre_social_political_issues">Social/Political issues/Economics</string>
+    <string name="genre_education_science">Education/Science/Factual topics</string>
+    <string name="genre_leisure_hobbies">Leisure hobbies</string>
+    <string name="parental_no">No Parental Rating</string>
+    <string name="parental_under">Under</string>
+    <string name="progress_info">Loading events, please wait...</string>
+    <string name="create_smart_record">Create smart record</string>
+    <string name="create_record_failed">Create record failed</string>
+    <string name="create_reminder">Create reminder</string>
+    <string name="create_reminder_failed">Create reminder failed</string>
+    <string name="smart_record_notification">Recording will start soon.</string>
+    <string name="smart_record_created">Smart record created!</string>
+    <string name="record_created">Record created!</string>
+    <string name="smart_record_failed">Failed to create smart record!</string>
+    <string name="record_started">Recording started!</string>
+    <string name="record_stopped">Recording stopped!</string>
+    <string name="reminder_created">Reminder created!</string>
+    <string name="reminder_deleted">Reminder deleted!</string>
+    <string name="manual_pvr">Manual record</string>
+    <string name="manual_reminder">Manual reminder</string>
+    <string name="start_time">Start time:</string>
+    <string name="end_time">End time:</string>
+    <string name="time_neutral">--:--</string>
+    <string name="create">Create</string>
+    <string name="sw_version">Software version</string>
+    <string name="app_version">Application version:</string>
+    <string name="framework_version">Framework version:</string>
+    <string name="middleware_version">Middleware version:</string>
+    <string name="sdk_version">SDK version:</string>
+    <string name="sort_name_asc">Sort by name ascending</string>
+    <string name="sort_name_desc">Sort by name descending</string>
+    <string name="sort_duration_asc">Sort by duration ascending</string>
+    <string name="sort_duration_desc">Sort by duration descending</string>
+    <string name="sort_date_asc">Sort by date ascending</string>
+    <string name="sort_date_desc">Sort by date descending</string>
+    <string name="title">Title:</string>
+    <string name="desc">Description:</string>
+    <string name="duration">Duration:</string>
+    <string name="record_size">Record size:</string>
+    <string name="open_pvr">Open PVR scheduled records</string>
+    <string name="open_reminders">Open list of reminders</string>
+</resources>
